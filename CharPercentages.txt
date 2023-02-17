@@ -1,4 +1,8 @@
-Splicing every 5-letter word used as the daily Wordle word of the day from January 7, 2022 to December 31, 2022 and determing the percent occurrance of each character gives the following data, with the character 'e' being most common with a percent occurance of 10.24% and the character 'j' being the least common with a percent occurrance of 0.22%. 
+Splicing every 5-letter word used as the daily Wordle word of the day 
+from January 7, 2022 to December 31, 2022 and determing the percent 
+occurrance of each character gives the following data, with the 
+character 'e' being most common with a percent occurance of 10.24% 
+and the character 'j' being the least common with a percent occurrance of 0.22%. 
 
 This data is used to help determine the difficulty of the Wordle word of the day.
 
