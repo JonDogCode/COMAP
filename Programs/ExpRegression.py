@@ -5,7 +5,7 @@ import math
 wordleData = "CSV\CleanWordleData.csv"
 
 # Write file
-logRegress = "CSV\logRegress.csv"
+logRegress = "CSV\expRegress.csv"
 
 # Create writer object
 with open(logRegress, "w", encoding="utf-8-sig") as logRegress:
